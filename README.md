@@ -27,21 +27,29 @@ o	From this table we can see a high number of employees are ready to retire (90,
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 For this task in the assignment, we created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 Below you will find the table created of all current employees born in 1965
-Insert Mentorship Eligibility PNG
-o	Based on the data retrieved, we find there are 1,940 employees born in 1965 and who are eligible for the mentorship program
 
-## ANALYSIS
-Our manager is concerned and preparing for the expected “silver tsunami” which is the term used to describe the first wave of ‘baby boomers’ who are reaching the age of retirement and will soon be making an exit out of the workforce. To assist the manager in preparing for this he has posed two specific questions for us to answer using the data we have been able to analyze. 
+![Membership](https://github.com/smithsh14/Pewlett-Hackard-Analysis/blob/main/Resources/Membership.png)
+
+o	Based on the data retrieved, we find there are 1,940 employees born in 1965 and who are eligible for the mentorship program.
+
+## SUMMARY
+
+The manager is concerned and preparing for the expected “silver tsunami” which is the term used to describe the first wave of ‘baby boomers’ who are reaching the age of retirement and will soon be making an exit out of the workforce. To assist the manager in preparing for this he has posed two specific questions for us to answer using the data we have been able to analyze. 
+
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-o	There are 90,398 employees who are ready to retire. Each of those roles will need to be filled as those who are ready to retire begin to exit the workforce. 
+
+o	There are 90,398 employees who are ready to retire. Each of those roles will need to be filled as those who are ready to retire begin to exit the workforce.
+
 •	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-o	There are only 1,940 employees who are eligible for the mentorship program. With only a small amount of the employees eligible for mentorship there will be a gap in leadership/upper management positions that will need to be filled to bridge the gap that will be left as more of the older generation retires. A
-Additional Research
--	As the manager continues to prepare for the “silver tsunami”, additional data analysis can be used to provide further insight into the dynamics of the company. Using the information provided in the Unique Titles table information can be teased out to review and answer the following questions…
-o	What is the gender breakdown among those employees who are ready to retire?
+
+o	There are only 1,940 employees who are eligible for the mentorship program. With only a small amount of the employees eligible for mentorship there will be a gap in leadership/upper management positions that will need to be filled to bridge the gap that will be left as more of the older generation retires. 
+
+#### Additional Research
+
+As the manager continues to prepare for the “silver tsunami”, additional data analysis can be used to provide further insight into the dynamics of the company. Using the information provided in the Unique Titles table information can be teased out to review and answer the following questions…
+
+o	What is the gender breakdown among those employees who are ready to retire? Is there a gender gap? If so, in which departments?
+
 o	What is the impact the salary difference will have on the company after those who are ready to retire exit the workforce?
+
 o	Which department(s) will be impacted the most by those who are ready to retire?
-
-
-
-## Summary
